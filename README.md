@@ -27,4 +27,6 @@ Some ideas of the examples of the parameters we took into considerations were:
 
 In this repository, you can find the following support documents: 
 1. `final_report.ipynb`: the comprehensive report on every model, simulation, and visualization that was implemented during this project;
-2. `SIR.md`: 
+2. `SIR.md`: introduction of the "Susceptible (S), Infected (I) and Recovered (R)" disease modeling technique;
+3. `script` folder: contains the Python scripts of our model simulations, and the implementation of objects used in the SIR model;
+4. `test` folder: contains the unit tests conducted on our models. 
