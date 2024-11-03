@@ -16,14 +16,14 @@ In this project, I worked with three teammates to model how a new disease spread
 
 The highlight of this project was the use of object-oriented programming by creating various classes of `Person` to implement the theoretical models. 
  
-Some ideas of the examples of the parameters we took into considerations were:
+Some ideas of the examples of the parameters we took into considerations were: **(Not all implemented)**
 1. Modeling the use of masks to slow disease spread
 2. Modeling the use of quarantine, social distancing, etc.
 3. Modeling contagion on a social network (e.g. conspiracy theory)
 4. Fitting the SIR model to COVID-19 data
 5. Implementing a large-scale/high-performance version of the continuous model
 6. Modeling the appearance of a new strain which might re-infect recovered individuals
-7. A nice visualization relating to the project
+   
 
 In this repository, you can find the following support documents: 
 1. `final_report.ipynb`: the comprehensive report on every model, simulation, and visualization that was implemented during this project;
