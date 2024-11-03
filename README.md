@@ -6,7 +6,7 @@
 
 **Programming Language:** Python (ipynb)
 
-**Keywords:** Implementing mathematical models with Python, 2D model visualization with Matplotlib, selecting and evaluating model parameters. 
+**Keywords:** Object-Oriented Programming, Implementing mathematical models with Python, 2D model visualization with Matplotlib, selecting and evaluating model parameters. 
 
 
 In this project, I worked with three teammates to model how a new disease spreads throughout a population with the implementation of 
