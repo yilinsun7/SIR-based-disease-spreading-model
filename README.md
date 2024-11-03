@@ -1,8 +1,11 @@
 ### SIR-based-disease-spreading-model
 
 **Time:** December 2021 - March 2022
-**Coursework:** STAT 378 Scientific Computing with Python 
+
+**Coursework:** STAT 378 Scientific Computing with Python
+
 **Programming Language:** Python (ipynb)
+
 **Keywords:** Implementing mathematical models with Python, 2D model visualization with Matplotlib, selecting and evaluating model parameters. 
 
 
